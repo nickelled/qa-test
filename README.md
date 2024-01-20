@@ -4,7 +4,7 @@ Below is the technical test we ask engineering applicants to attempt. This repo 
 
 1. Setup 2-5 automated tests in your preferred testing framework. Tell us how to install and run them.
 
-2. Report some "bugs" or limitations with this completed solution attempt
+2. Report some "bugs" or limitations with this completed solution
 
 Once you are completed please add the repository to a ZIP file and send it to us via email/dropbox/google drive.
 
