@@ -1,6 +1,6 @@
 # QA Automation Engineer Test
 
-Below is the technical test we ask engineering applicants to attempt. This repo has been updated to include a not very good solution. To view the solution you can open the index.html file in your browser. Your challenge is to:
+Below is the technical test, for reference, which we ask engineering applicants to attempt. This repo has been updated to include a not very good solution. To view the solution you can open the index.html file in your browser. Your challenge is to:
 
 1. Setup 2-5 automated tests in your preferred testing framework. Tell us how to install and run them.
 
